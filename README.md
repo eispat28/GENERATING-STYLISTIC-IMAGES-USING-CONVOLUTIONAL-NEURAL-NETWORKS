@@ -8,3 +8,10 @@ Major Research Project (MRP) - Ryerson University
 
 ![ScreenShot](https://codelabs.developers.google.com/codelabs/tensorflow-style-transfer-android/img/c8b30d69a632f9a2.png)
 
+**File Descriptions**
+- Content Images = all images used as content reference
+- Style Images = all images used as style reference
+- Generated Images = the results of NST algorithm
+- Weekly Reports = weekly files containing research progress/ findings
+- Neural Style Transfer.ipynb = code for NST
+- MRP - Final Report = project document
