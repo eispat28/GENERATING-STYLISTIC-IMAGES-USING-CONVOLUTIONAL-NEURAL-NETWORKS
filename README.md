@@ -6,4 +6,4 @@ Major Research Project (MRP) - Ryerson University
 
 **Examples of Neural Style Transfer**
 
-![](README images/7.PNG)
+![Alt text](/README images/7.PNG?raw=true "Optional Title")
