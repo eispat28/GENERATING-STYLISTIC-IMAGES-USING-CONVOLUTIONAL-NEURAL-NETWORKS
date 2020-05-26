@@ -6,7 +6,7 @@ Major Research Project (MRP) - Ryerson University
 
 **Example of Neural Style Transfer**
 
-![alt text](Generated Images/con3_1 (ab = 0.01) cat.jpg)
+![alt text](https://github.com/eispat28/GENERATING-STYLISTIC-IMAGES-USING-CONVOLUTIONAL-NEURAL-NETWORKS/blob/master/Generated%20Images/con3_1%20(ab%20%3D%200.01)%20cat.jpg)
 
 **File Descriptions**
 - Content Images = all images used as content reference
